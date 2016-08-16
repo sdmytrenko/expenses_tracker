@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- комментарии вот так пишутся -->
-
+<?xml version='1.0' encoding='UTF-8'?> 
+<!-- комментарии вот так пишутся --> 
 <expenses>
-	<expense date="9.8.2016" category="Образование" amount="900">
-		Книжка по Ruby on Rails
-	</expense>
-
-	<expense date="1.8.2016" category="Курсы LITS" amount="9000">
-		Цена курсов
-	</expense>
-
-	<expense date="23.7.2016" category="Курсы LITS" amount="3900">
-		Купил ноутбук
-	</expense>
-</expenses>
+  <expense date='9.8.2016' category='Образование' amount='900'>
+     Книжка по Ruby on Rails 
+  </expense>
+  <expense date='1.8.2016' category='Курсы LITS' amount='9000'>
+     Цена курсов 
+  </expense>
+  <expense date='23.7.2016' category='Курсы LITS' amount='3900'>
+     Купил ноутбук 
+  </expense>
+  <expense amount='2200' category='Личные нужды' date='2016-08-10'>
+     Новый телефон 
+  </expense>
+ </expenses>
